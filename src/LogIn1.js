@@ -28,7 +28,7 @@ const LogIn11 = styled("div")({
   alignItems: `flex-start`,
   padding: `0px`,
   boxSizing: `border-box`,
-  overflow: `hidden`,
+  //overflow: `hidden`,
 });
 
 const Q82 = styled("img")({
