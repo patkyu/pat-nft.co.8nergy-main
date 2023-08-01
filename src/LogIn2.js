@@ -57,7 +57,7 @@ const InputField = styled("input")({
 const LogIn21 = styled("div")({
   backgroundColor: `rgba(255, 255, 255, 1)`,
   display: `flex`,
-  position: `relative`,
+  //position: `relative`,
   isolation: `isolate`,
   flexDirection: `row`,
   width: `1920px`,
