@@ -32,7 +32,7 @@ const SignUp21 = styled("div")({
   alignItems: `flex-start`,
   padding: `0px`,
   boxSizing: `border-box`,
-  overflow: `hidden`,
+  //overflow: `hidden`,
 });
 
 const Q81 = styled("img")({
