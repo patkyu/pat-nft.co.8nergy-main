@@ -32,7 +32,7 @@ const theme = createTheme({
 const SignUp11 = styled("div")({
     backgroundColor: `rgba(255, 255, 255, 1)`,
     display: `flex`,
-    position: `relative`,
+    //position: `relative`,
     isolation: `isolate`,
     flexDirection: `row`,
     width: `100%`, // Adjusted to be 100% of the viewport width
