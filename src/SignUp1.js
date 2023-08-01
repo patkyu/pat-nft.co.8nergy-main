@@ -41,7 +41,7 @@ const SignUp11 = styled("div")({
     alignItems: `flex-start`,
     padding: `0px`,
     boxSizing: `border-box`,
-    overflow: `hidden`,
+    //overflow: `hidden`,
     [theme.breakpoints.down('sm')]: {
       flexDirection: 'column', // Change the flex direction to stack elements vertically
     },
